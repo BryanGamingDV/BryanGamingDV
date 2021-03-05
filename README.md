@@ -1,6 +1,5 @@
 ### Hello!
 
-<!--
 I am a BryanGaming, a good developer.
 
 My best proyects are: 
