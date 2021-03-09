@@ -8,7 +8,7 @@ My best proyects are:
 - EffectRanks
 - SpyCommands
 
-### Stats:
+## Stats:
 ![dataname](https://github-readme-stats-codestackr.vercel.app/api?username=BryanGamingDV&show_icons=true&hide_border=true)
 ![language](https://github-readme-stats.vercel.app/api/top-langs/?username=BryanGamingDV)
 
