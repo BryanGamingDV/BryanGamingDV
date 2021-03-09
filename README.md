@@ -9,8 +9,7 @@ My best proyects are:
 - EffectRanks
 - SpyCommands.
 
-Data:
-- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=bryangamingdv.readme.visitor-badge)
-
 <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats-codestackr.vercel.app/api?username=BryanGamingDV&show_icons=true&hide_border=true" />
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=bryangamingdv.readme.visitor-badge)
 
